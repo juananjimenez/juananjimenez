@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juananjimenez
-- 👀 I’m interested in python, APIs, Data Visualization, Data Science
-- 🌱 I’m currently learning Python and Flask
+- 👀 I’m interested in Python, APIs, Data Visualization, Data Science
+- 🌱 I’m currently learning Python(Flask) and Golang
 - 💞️ I’m looking to collaborate on visualization projects
 - 📫 How to reach me juananjimenez1975@gmail.com
 
